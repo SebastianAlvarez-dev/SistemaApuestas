@@ -9,7 +9,7 @@ public class Partido : Entidad
 
     public bool Finalizado { get; private set; }
 
-    public string? Resultado { get; private set; }
+    public ResultadoPartido? Resultado { get; private set; }
 
     public Partido(
         Guid id,
@@ -21,9 +21,9 @@ public class Partido : Entidad
         EquipoVisitante = equipoVisitante;
     }
 
-    public void Finalizar(string resultado)
+    public void Finalizar(ResultadoPartido resultado)
     {
-        Finalizado = true;
-        Resultado = resultado;
+    Finalizado = true;
+    Resultado = resultado;
     }
 }

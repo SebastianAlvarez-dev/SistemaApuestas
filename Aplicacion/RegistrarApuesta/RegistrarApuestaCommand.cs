@@ -1,3 +1,4 @@
+using Dominio.Partidos;
 namespace Aplicacion.RegistrarApuesta;
 
 public class RegistrarApuestaCommand
@@ -6,7 +7,7 @@ public class RegistrarApuestaCommand
 
     public Guid PartidoId { get; set; }
 
-    public string Prediccion { get; set; } = string.Empty;
+    public ResultadoPartido Prediccion { get; set; }
 
     public decimal Monto { get; set; }
 

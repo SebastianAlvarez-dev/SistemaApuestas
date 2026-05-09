@@ -10,7 +10,7 @@ public class Apuesta : Entidad
 
     public Partido Partido { get; private set; }
 
-    public string Prediccion { get; private set; }
+    public ResultadoPartido Prediccion { get; private set; }
 
     public decimal Monto { get; private set; }
 
@@ -22,7 +22,7 @@ public class Apuesta : Entidad
         Guid id,
         Usuario usuario,
         Partido partido,
-        string prediccion,
+        ResultadoPartido prediccion,
         decimal monto,
         decimal cuota)
     {

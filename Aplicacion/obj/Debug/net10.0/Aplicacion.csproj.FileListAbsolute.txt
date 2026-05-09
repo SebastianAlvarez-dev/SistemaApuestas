@@ -1,0 +1,16 @@
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\bin\Debug\net10.0\Aplicacion.deps.json
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\bin\Debug\net10.0\Aplicacion.dll
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\bin\Debug\net10.0\Aplicacion.pdb
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\bin\Debug\net10.0\Dominio.dll
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\bin\Debug\net10.0\Dominio.pdb
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.AssemblyInfo.cs
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.sourcelink.json
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.csproj.Up2Date
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.dll
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\refint\Aplicacion.dll
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\Aplicacion.pdb
+C:\Users\sebas\3D Objects\SistemaApuestas\Aplicacion\obj\Debug\net10.0\ref\Aplicacion.dll
