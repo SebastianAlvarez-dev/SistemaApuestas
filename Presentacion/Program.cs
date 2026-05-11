@@ -2,7 +2,7 @@ using Aplicacion.RegistrarApuesta;
 using Aplicacion.ResolverApuesta;
 using Dominio.Partidos;
 using Dominio.Usuarios;
-
+// Creación de usuario y partido de prueba
 var usuario = new Usuario(
     Guid.NewGuid(),
     "Sebastian",
@@ -12,7 +12,7 @@ var partido = new Partido(
     Guid.NewGuid(),
     "Barcelona",
     "Real Madrid");
-
+// Datos necesarios para registrar una apuesta
 var command = new RegistrarApuestaCommand
 {
     UsuarioId = usuario.Id,
@@ -29,11 +29,13 @@ var apuesta = registrarHandler.Handle(
     usuario,
     partido);
 
+// Simulación del resultado final del partido
 Console.WriteLine("Apuesta registrada");
 
 Console.WriteLine($"Saldo actual: {usuario.Saldo}");
 
 partido.Finalizar(ResultadoPartido.Local);
+// Resolución de apuesta y cálculo de ganancias
 
 var resolverHandler = new ResolverApuestaHandler();
 

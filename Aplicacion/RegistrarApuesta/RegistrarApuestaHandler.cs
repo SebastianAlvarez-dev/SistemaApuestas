@@ -1,11 +1,12 @@
 using Dominio.Apuestas;
 using Dominio.Partidos;
 using Dominio.Usuarios;
-
+// Caso de uso encargado de registrar apuestas en el sistema
 namespace Aplicacion.RegistrarApuesta;
 
 public class RegistrarApuestaHandler
 {
+    // Ejecuta el flujo de registro de una apuesta
     public Apuesta Handle(
         RegistrarApuestaCommand command,
         Usuario usuario,

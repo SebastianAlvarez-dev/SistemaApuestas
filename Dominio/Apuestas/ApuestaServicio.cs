@@ -1,3 +1,4 @@
+// Servicio de dominio encargado de validar reglas de negocio de apuestas
 using Dominio.Partidos;
 using Dominio.Usuarios;
 
@@ -5,6 +6,8 @@ namespace Dominio.Apuestas;
 
 public static class ApuestaServicio
 {
+    // Verifica que el usuario tenga saldo suficiente
+// y que el partido no haya finalizado
     public static void Validar(
         Usuario usuario,
         Partido partido,

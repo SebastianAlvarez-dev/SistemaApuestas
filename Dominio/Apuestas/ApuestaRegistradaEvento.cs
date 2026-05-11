@@ -1,3 +1,5 @@
+// Evento de dominio generado cuando una apuesta
+// es registrada correctamente en el sistema
 using Dominio.Abstracciones;
 
 namespace Dominio.Apuestas;

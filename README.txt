@@ -1,5 +1,5 @@
 # Sistema de Apuestas de Fútbol
-
+link del reporsitorio en git hub: https://github.com/SebastianAlvarez-dev/SistemaApuestas.git
 ## Descripción
 
 Proyecto académico desarrollado con .NET y Domain-Driven Design (DDD) para modelar el dominio de un sistema de apuestas deportivas de fútbol.
